@@ -1,1 +1,1 @@
-Project using React.js
+Project to display movie titles.

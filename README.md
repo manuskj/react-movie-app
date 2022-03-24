@@ -1,1 +1,1 @@
-Project to display movie titles.
+Project to show movie titles.
